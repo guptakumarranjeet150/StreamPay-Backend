@@ -4,8 +4,8 @@
   "description": "StreamPay - a Stellar/Soroban real-time payment-streaming backend",
   "main": "index.js",
   "scripts": {
-    "start": "node init && node index.js",
-    "dev": "node init && node index.js",
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "node --test"
   },
   "keywords": [
